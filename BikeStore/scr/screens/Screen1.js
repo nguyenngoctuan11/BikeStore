@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
     },
     text_header:{
         fontSize:26,
-        fontFamily:'VT323',
+        fontFamily:'Time new roman',
         textAlign:'center',
         marginLeft: 12,
         marginTop: 10,
@@ -65,6 +65,7 @@ const styles = StyleSheet.create({
         marginLeft:20,
         marginRight:20,
         marginBottom: 20,
+        
 
     },
     btn_get:{
